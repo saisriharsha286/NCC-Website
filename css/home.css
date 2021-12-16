@@ -15,8 +15,8 @@ body{
   background: #fff;
 }
 .aim {
-  width: 50%;
-  margin-left: 25%;
+  width: 30%;
+  margin-left: 36%;
   padding-left: 55px;
   padding-right: 55px;
   padding-top: 10px;
@@ -28,8 +28,8 @@ body{
   border-radius: 12px;
 }
 .pldge {
-  width: 50%;
-  margin-left: 25%;
+  width: 30%;
+  margin-left: 36%;
   padding-left: 55px;
   padding-right: 55px;
   padding-top: 10px;
@@ -87,26 +87,26 @@ body{
     margin-left: 2.5%;
     padding-left: 55px;
     padding-right: 55px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-top: 20px;
-    margin-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 1px;
+    margin-top: 15px;
+    margin-bottom: 0px;
     background: #053d4d;
     border-radius: 12px;
     border-radius: 12px;
   }
   ul{
-    margin-right: 25px;
+    margin-right: 20px;
   }
   .pldge {
     width: 95%;
     margin-left: 2.5%;
     padding-left: 55px;
     padding-right: 55px;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-top: 20px;
-    margin-bottom: 15px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     background: #053d4d;
     border-radius: 12px;
     border-radius: 12px;
